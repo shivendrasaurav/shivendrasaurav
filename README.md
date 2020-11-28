@@ -4,20 +4,11 @@
 I go by the alias <b>"outcast_dreamer"</b> on most platforms and love to code and I am an avid coder in Python. I am interested in domains such as Full stack development, Data Science and Automation and currently going full throttle with my learning phase on these topics ~ :bow:
 <hr> 
 
-<!--
-**outcastdreamer/outcastdreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- ⚡ Fun fact:
--->
 
 - 🔭 I am currently working on Automation Projects using Python
 - 🌱 I am also learning Javascript and Data Science with Python 
 - 💬 Ask me about Python :snake:,  git :octocat: or Life/ERROR 404 :sleepy:
-- 📫 Reach out to me on telegram or instagram : <b>[@outcast_dreamer](https://www.instagram.com/outcast_dreamer/)</b> or <b>[Linkedin](https://www.linkedin.com/in/saket-savarn/)</b>.
+- 📫 Reach out to me on telegram or instagram : <b>[@shivendrasaurav](https://www.instagram.com/shivendrasaurav/)</b> or <b>[Linkedin](https://www.linkedin.com/in/shivendra-saurav-80a8ba191/)</b>.
 - 😄 Tags: Python, Git, Data Structures, Shell Scripting, Algorithms.
 - :wink: Fun facts : I :heart: :musical_note::coffee::computer: !!
 - ⚡ <b>My Motto ~</b>
