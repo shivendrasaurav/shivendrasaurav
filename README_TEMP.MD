@@ -1,4 +1,4 @@
-<table border=0>
+<table style="border: none;">
 <tr>
 <td width="15%"></td>
 
@@ -13,7 +13,7 @@
 <br/><br/><br/>
 <div>
 <h2>I have worked on</h2>
-<table border=0><tr>
+<table style="border: none;"><tr>
 <td width="10%"></td>
 <td valign="top" width="80%" align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
