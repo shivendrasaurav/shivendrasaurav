@@ -1,15 +1,21 @@
+<table border=0>
+<tr>
+<td width="15%"></td>
+
+<td width="70%">
+
 <div>
     <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
     </div><br/> 
     <p style="font-size: 15px;">All right people let's do this one last time. My name is Shivendra Saurav. I was bitten by a Firefox and for the last few years, I have been coding a lot. I'm pretty sure you know the rest.</p> 
     <p style="font-size: 15px;">You see, I started making awesome webpages, learned to code, made more webpages, learnt full stack development, became a content creator, won hackathons, spoke at DSC OMG 2020, and handled all of this like a champ.</p> 
 </div>
-<br/><hr/><br/>
+<br/><br/><br/>
 <div>
 <h2>I have worked on</h2>
-<table><tr>
-<td width="20%"></td>
-<td valign="top" width="60%" align="center">
+<table border=0><tr>
+<td width="10%"></td>
+<td valign="top" width="80%" align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -26,11 +32,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 </td>
-<td width="20%"></td>
+<td width="10%"></td>
 </tr>
 </table>
 </div>
-<br/><hr/><br/>
+<br/><br/><br/>
 <div>
 <h2>GitHub Stats</h3>
 
@@ -41,7 +47,7 @@
 <div><img src="https://komarev.com/ghpvc/?username=shivendrasaurav&style=flat" alt="felirox" /></div>
 
 </div>
-<br/><hr/><br/>
+<br/><br/><br/>
 <div>
 <h2>My Socials</h2>
 <div align="center">
@@ -59,3 +65,9 @@
 </a>  
 </div>
 </div>  
+
+</td>
+
+<td width="15%"></td>
+</tr>
+</table>
