@@ -1,67 +1,48 @@
-<div style="width: 90%; display: block; margin: auto; padding: 8px 16px; background: inherit; box-shadow: 3px 3px 12px #1a1a1a; font-family:  'Helvetica Neue', 'Calibri', 'Open Sans', 'Roboto';
- border-radius: 6px;">
+<div>
     <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
     </div><br/> 
     <p style="font-size: 15px;">All right people let's do this one last time. My name is Shivendra Saurav. I was bitten by a Firefox and for the last few years, I have been coding a lot. I'm pretty sure you know the rest.</p> 
     <p style="font-size: 15px;">You see, I started making awesome webpages, learned to code, made more webpages, learnt full stack development, became a content creator, won hackathons, spoke at DSC OMG 2020, and handled all of this like a champ.</p> 
 </div>
-<br/><br/>
-<div style="width: 90%; display: block; margin: auto; padding: 8px 16px; background: inherit; box-shadow: 3px 3px 12px #1a1a1a;font-family:  'Helvetica Neue', 'Calibri', 'Open Sans', 'Roboto';
- border-radius: 6px;
-">
-    <h2>I have worked on</h2>
-    <button style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;
-">C/C++</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">Python</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">HTML</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">CSS</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">Bootstrap</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">Fluent Design for Web</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">Foundation</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">CSS</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">JavaScript</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">PHP</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">Node JS</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">Express JS</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">React</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">Service Workers</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">MongoDB</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">PostgreSQL</button>
-    <button  style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #0695ff; color: #fcfcfc;">MySQL</button>
-    <br/><br/>
-    <h2>And know</h2>
-    <button style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #f6557f; color: #fcfcfc;
-">Full Stack Development</button>
-    <button style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #f6557f; color: #fcfcfc;
-">Responsive Web Design</button>
-    <button style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #f6557f; color: #fcfcfc;
-">Progressive Web Apps</button>
-    <button style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #f6557f; color: #fcfcfc;
-">UI/UX Design</button>
-    <button style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #f6557f; color: #fcfcfc;
-">Web Design</button>
-    <button style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #f6557f; color: #fcfcfc;
-">Wireframing</button>
-    <button style="border: none; padding: 6px 10px; margin: 3px 0px; font-weight: 300; background: #f6557f; color: #fcfcfc;
-">Prototyping</button>
+<br/><hr/><br/>
+<div>
+<h2>I have worked on</h2>
+<table><tr>
+<td width="20%"></td>
+<td valign="top" width="60%" align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+</td>
+<td width="20%"></td>
+</tr>
+</table>
 </div>
-<br/><br/>
-<div style="width: 90%; display: block; margin: auto; padding: 8px 16px; background: inherit; box-shadow: 3px 3px 12px #1a1a1a;font-family:  'Helvetica Neue', 'Calibri', 'Open Sans', 'Roboto';
- border-radius: 6px;
-">
+<br/><hr/><br/>
+<div>
 <h2>GitHub Stats</h3>
 
-<div style="width: 70%; display: block; margin: auto;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outcastdreamer&hide_border=true&layout=compact"/></div>
-
-<div style="width: 70%; display: block; margin: auto;"><img src="https://github-readme-stats.vercel.app/api?username=shivendrasaurav&show_icons=true&count_private=true&hide_border=true" /></div>  
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=shivendrasaurav&style=flat" style="transform: scale(1.25); margin-top: 12px;" alt="felirox" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outcastdreamer&hide_border=true&layout=compact"/></div> 
+<br/>
+<div><img src="https://github-readme-stats.vercel.app/api?username=shivendrasaurav&show_icons=true&count_private=true&hide_border=true" /></div> 
+<br/>
+<div><img src="https://komarev.com/ghpvc/?username=shivendrasaurav&style=flat" alt="felirox" /></div>
 
 </div>
-<br/><br/>
-<div style="width: 90%; display: block; margin: auto; padding: 8px 16px; background: inherit; box-shadow: 3px 3px 12px #1a1a1a;font-family:  'Helvetica Neue', 'Calibri', 'Open Sans', 'Roboto';
- border-radius: 6px;
-">
+<br/><hr/><br/>
+<div>
 <h2>My Socials</h2>
 <div align="center">
 <a href="https://github.com/shivendrasaurav" target="_blank">
