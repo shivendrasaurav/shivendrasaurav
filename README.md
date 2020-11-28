@@ -19,7 +19,7 @@ I go by the alias <b>"outcast_dreamer"</b> on most platforms and love to code an
 </p>
 <br>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendrasaurav" alt="felirox" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendrasaurav&style=flat" alt="felirox" /> </p>
 <hr>
 
 :five: **My Top 5 languages :**<br>
