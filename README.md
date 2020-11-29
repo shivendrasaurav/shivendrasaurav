@@ -1,7 +1,3 @@
-
-<table>
-<tr>
-<td width="15%"></td><td width="70%">
 <div>
     <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
     </div><br/> 
@@ -61,7 +57,3 @@
 </a>  
 </div>
 </div>  
-
-</td><td width="15%"></td>
-</tr>
-</table>
