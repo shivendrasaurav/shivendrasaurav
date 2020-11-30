@@ -1,7 +1,3 @@
-
-<table>
-<tr>
-<td width="15%"></td><td width="70%">
 <div>
     <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
     </div><br/> 
@@ -11,8 +7,7 @@
 <br/><br/><br/>
 <div>
 <h2>I have worked on</h2>
-<table><tr>
-<td width="10%"></td><td valign="top" width="80%" align="center">
+<div align="center" width=400>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -28,9 +23,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-</td><td width="10%"></td>
-</tr>
-</table>
+</div>
 </div>
 <br/><br/><br/>
 <div>
@@ -61,7 +54,4 @@
 </a>  
 </div>
 </div>  
-
-</td><td width="15%"></td>
-</tr>
-</table>
+<br/><br/><br/><br/>
