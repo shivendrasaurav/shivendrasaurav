@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background: #2e2e2e;
+        }
+        .br_edge_wrap{
+            width: 180px;
+            height: 40px;
+            background: #fcfcfc;
+            padding: 3.5px;
+            clip-path: polygon(0 0, 100% 0, 100% 88%, 93% 100%, 0 100%);
+        }
+        .br_edge{
+            width: 180px;
+            height: 40px;
+            border: none;
+            clip-path: polygon(0 0, 100% 0, 100% 88%, 93% 100%, 0 100%);
+            font-family: "Segoe UI";
+            font-size: 18px;
+            font-weight: 500;
+            background: #0e0e0e;
+            color: #fcfcfc;
+        }
+        .onn{
+            animation: tubelight 10s linear;
+        }
+        .btn_onn{
+            background: #fcfcfc;
+            color: #0e0e0e;
+        }
+        @keyframes tubelight{
+            0%{background: #0e0e0e; color: #fcfcfc;}
+            1%{background: #fcfcfc; color: #0e0e0e;}
+            2%{background: #0e0e0e; color: #fcfcfc;}
+            3%{background: #fcfcfc; color: #0e0e0e;}
+            4%{background: #0e0e0e; color: #fcfcfc;}
+            5%{background: #fcfcfc; color: #0e0e0e;}
+            6%{background: #0e0e0e; color: #fcfcfc;}
+            7%{background: #fcfcfc; color: #0e0e0e;}
+            10%{background: #0e0e0e; color: #fcfcfc;}
+            13%{background: #fcfcfc; color: #0e0e0e;}
+            100%{background: #fcfcfc; color: #fcfcfc;}
+        }
+    </style>
+</head>
+<body>
+    <div class="br_edge_wrap" onmouseover="tlon1();" onmouseout="tloff1();" id="b1wrap">
+        <button class="br_edge" id="b1">Order Now</button>
+    </div>
+</body>
+
+<script>
+    function tlon1(){
+        document.getElementById("b1wrap").classList.add('onn');
+        setTimeout(function(){
+            document.getElementById("b1").classList.add('btn_onn');
+        }, 1300);
+    }
+
+    function tloff1(){
+        document.getElementById("b1").classList.remove('btn_onn');
+        document.getElementById("b1wrap").classList.remove('onn');
+    }
+</script>
+
+</html>
